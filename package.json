@@ -1,0 +1,19 @@
+{
+  "name": "danfitness",
+  "version": "1.0.0",
+  "description": "Задача создать Parser CSV для MIO go отчетов которые приходят по емэйл Вывести среднее значение за тренировку Вывести значения по пульсовым зонам",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.2.0",
+    "csv": "^1.1.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
